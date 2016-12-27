@@ -34,6 +34,8 @@ Scroll down for the actual assignment!
 ### Javascript
 - [Reintroduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [JS Garden](http://bonsaiden.github.io/JavaScript-Garden/#intro) (more in-depth)
+- [Eloquent Javascript](http://eloquentjavascript.net/)
+- [ES6 Tutorials](https://github.com/ericdouglas/ES6-Learning)
 
 
 
