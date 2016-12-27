@@ -35,5 +35,8 @@ This is A LOT. Your goal is not to complete 100% of this. Go over whatever you f
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [ES6 Tutorials](https://github.com/ericdouglas/ES6-Learning)
 
+### Angular
+-[Build a Gmail clone](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
+
 
 
