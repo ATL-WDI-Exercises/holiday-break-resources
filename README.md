@@ -35,6 +35,9 @@ This is A LOT. Your goal is not to complete 100% of this. Go over whatever you f
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [ES6 Tutorials](https://github.com/ericdouglas/ES6-Learning)
 
+### JQuery
+- [Codecademy](https://www.codecademy.com/learn/jquery)
+
 ### Express, Node, and Mongo Example
 - [Simple Blog](https://zellwk.com/blog/crud-express-mongodb/)
 
