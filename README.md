@@ -4,8 +4,6 @@ Resources for the holiday break of 2016/WDI-8
 ## Repetition
 This is A LOT. Your goal is not to complete 100% of this. Go over whatever you feel like going over.
 
-Scroll down for the actual assignment!
-
 ### Command Line
 - [Command line crash course](http://cli.learncodethehardway.org/book/ex1.html)
 - [Command line shortcuts](https://www.shortcutfoo.com/app/dojos/command-line)
